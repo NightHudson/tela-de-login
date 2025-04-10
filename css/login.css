@@ -9,7 +9,7 @@
     overflow: hidden;
 }
 
-.Login-container::before {
+.login-container::before {
     content: '';
     position: absolute;
     top: 0;
